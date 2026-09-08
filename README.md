@@ -1,6 +1,7 @@
 I was here
 
 # WELCOME TO THE QUEER BRANCH
+Update: Added grafitti, deprecated, and deepfried some images
 
 # Meeting Room Booking System
 
