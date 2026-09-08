@@ -3,6 +3,8 @@ I was here
 # WELCOME TO THE QUEER BRANCH
 Update: Added grafitti, deprecated, and deepfried some images
 
+I OWN THIS REPOSITORY NOW!!!
+
 # Meeting Room Booking System
 
 ## 📘 Project Description
@@ -11,7 +13,7 @@ The Meeting Room Booking System is a Java-based application designed to streamli
 ---
 
 ## 🚀 Features
-
+~
 ### Core Functionality
 - 🔐 **User Authentication**
   - Login and registration
@@ -33,7 +35,7 @@ The Meeting Room Booking System is a Java-based application designed to streamli
 - 🔔 **Notifications**
   - In-app or email reminders
   - Conflict alerts
-
+~
 ---
 
 ## 🛠️ Tech Stack
